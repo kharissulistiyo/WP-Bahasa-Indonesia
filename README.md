@@ -21,5 +21,5 @@ Kunjungi [wp-id.org](https://wp-id.org/category/terjemahan/) jika anda ingin ter
 
 * [Acuan 1](https://docs.google.com/spreadsheets/d/1-Coz3zEHpPwsgcW0ZTe5SFeYqnMrPU6WxB2DyYD_HHg/edit#gid=0)
 * [Acuan 2](https://docs.google.com/spreadsheets/d/1skiERLuSCepfWRkAS4sLa9PlddsjD6rhOxD4Ibob_DI/edit#gid=1322823941)
-* [Kode Etik Komunitas WordPress Indonesia](https://wp-id.org/kode-etik-komunitas-wordpress-indonesia/)
 * [Glosarium WordPress Bahasa Spanyol sebagai referensi](https://translate.wordpress.org/locale/es/default/glossary/)
+* [Kode Etik Komunitas WordPress Indonesia](https://wp-id.org/kode-etik-komunitas-wordpress-indonesia/)
