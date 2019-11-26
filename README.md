@@ -6,7 +6,7 @@ Menerjemahkan WordPress ke Bahasa Indonesia
 * Sunting spreadsheet untuk merivisi atau menyarankan istilah baru.
 * Tandai kolom dengan warna latar belakang oranye untuk kolom yang direvisi.
 * Tandai kolom dengan warna latar belakang hijau untuk istilah baru yang disarankan.
-* Jika sudah selesai, komunikan ke saya di kanal _#translation_ atau DM _@kharisulistiyo_ [Slack WordPress Indonesia](chat.wp-id.org). 
+* Jika sudah selesai, komunikan ke saya di kanal _#translation_ atau DM _@kharisulistiyo_ [Slack WordPress Indonesia](https://chat.wp-id.org). 
 
 | Nama Proyek | Google Spreadsheet | Kontributor |
 | ------------- | ------------- | ------------- |
