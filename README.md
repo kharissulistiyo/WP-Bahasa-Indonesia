@@ -8,7 +8,7 @@ Menerjemahkan WordPress ke Bahasa Indonesia
 * Tandai kolom dengan warna latar belakang hijau untuk istilah baru yang disarankan.
 * Jika sudah selesai, komunikan ke saya di kanal _#translation_ atau DM _@kharisulistiyo_ [Slack WordPress Indonesia](https://chat.wp-id.org). 
 
-| Nama Proyek | Google Spreadsheet | Kontributor |
+| Nama Proyek | Google Sheets | Kontributor |
 | ------------- | ------------- | ------------- |
 | [Global glossary](https://translate.wordpress.org/locale/id/default/glossary/)  | [Buka](https://docs.google.com/spreadsheets/d/1RPLlfcoOwJkXSUTtAo7g00-hyP7tznl935lQJwA9ME0/edit?usp=sharing)  | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
 | [WP core 5.3.x - Development](https://translate.wordpress.org/projects/wp/dev/id/default/glossary/) | [Buka](https://docs.google.com/spreadsheets/d/1lP1HmdoKFG0_tpc6anhjbx78Lo-AA_6WcFVjmr_nk9g/edit?usp=sharing) | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
