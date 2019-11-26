@@ -3,9 +3,9 @@ Menerjemahkan WordPress ke Bahasa Indonesia
 
 ## Membangun Glosarium WordPress untuk Bahasa Indonesia
 
-* Sunting spreadsheet untuk merivisi atau menyaran istilah baru
+* Sunting spreadsheet untuk merivisi atau menyarankan istilah baru
 * Tandai kolom dengan warna latar belakang oranye untuk kolom yang direvisi
-* Tandai kolom dengan warna latar belakang hijau untuk istilah baru
+* Tandai kolom dengan warna latar belakang hijau untuk istilah baru yang disarankan
 
 | Nama Proyek | Google Spreadsheet | Kontributor |
 | ------------- | ------------- | ------------- |
