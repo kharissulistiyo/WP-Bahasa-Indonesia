@@ -1,4 +1,4 @@
-# WP Bahasa Indonesia
+# WordPress Bahasa Indonesia
 Menerjemahkan WordPress ke Bahasa Indonesia
 
 ## Membangun Glosarium WordPress untuk Bahasa Indonesia
