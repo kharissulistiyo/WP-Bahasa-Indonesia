@@ -10,7 +10,7 @@ Menerjemahkan WordPress ke Bahasa Indonesia
 | Nama Proyek | Google Spreadsheet | Kontributor |
 | ------------- | ------------- | ------------- |
 | [Global glossary](https://translate.wordpress.org/locale/id/default/glossary/)  | [Buka](https://docs.google.com/spreadsheets/d/1RPLlfcoOwJkXSUTtAo7g00-hyP7tznl935lQJwA9ME0/edit?usp=sharing)  | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
-| [WP core 5.3.x - Administration](https://translate.wordpress.org/projects/wp/dev/admin/id/default/)  | [Buka](https://docs.google.com/spreadsheets/d/1lsZrwaLNcR8t5EteppYVvWzlYEw0rxJf-0C3AWRyuTE/edit?usp=sharing)  | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
+| [WP core 5.3.x - Administration](https://translate.wordpress.org/projects/wp/dev/admin/id/default/glossary/)  | [Buka](https://docs.google.com/spreadsheets/d/1lsZrwaLNcR8t5EteppYVvWzlYEw0rxJf-0C3AWRyuTE/edit?usp=sharing)  | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
 | [WooCommerce (Development)](https://translate.wordpress.org/projects/wp-plugins/woocommerce/dev/id/default/glossary/) | [Buka](https://docs.google.com/spreadsheets/d/19MVPnSPCopndQGh_1t3YCqIuQ5-hCWyd_8NNBj19yHQ/edit?usp=sharing) | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
 
 Kunjungi [wp-id.org](https://wp-id.org/category/terjemahan/) jika anda ingin terlbat dalam proyek ini.
