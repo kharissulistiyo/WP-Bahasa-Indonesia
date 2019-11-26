@@ -15,3 +15,8 @@ Menerjemahkan WordPress ke Bahasa Indonesia
 | [WooCommerce (Development)](https://translate.wordpress.org/projects/wp-plugins/woocommerce/dev/id/default/glossary/) | [Buka](https://docs.google.com/spreadsheets/d/19MVPnSPCopndQGh_1t3YCqIuQ5-hCWyd_8NNBj19yHQ/edit?usp=sharing) | [Devin Maeztri](https://devinmaeztri.com/), [Ascencia Fike](http://ascenciafike.com/), [Kharis Sulistiyono](https://kharis.risbl.co/) |
 
 Kunjungi [wp-id.org](https://wp-id.org/category/terjemahan/) jika anda ingin terlibat dalam proyek ini. 
+
+### Link penting: 
+
+* [Kode Etik Komunitas WordPress Indonesia](https://wp-id.org/kode-etik-komunitas-wordpress-indonesia/)
+* [Glosarium WordPress Bahasa Spanyol sebagai referensi](https://translate.wordpress.org/locale/es/default/glossary/)
